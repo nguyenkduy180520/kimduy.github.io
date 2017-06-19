@@ -1,0 +1,41 @@
+h1 {text-align:center;
+	font-family: sans-serif;
+	font-size: 30px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 800;
+	line-height: 26.4px;
+	}
+.main{max-width:260px;float:left;display: inline-block;
+    vertical-align: middle;
+    transform: translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    transition-duration: 0.3s;
+    transition-property: transform;
+	}
+	.main:hover,
+	.main:focus,
+	.main:active {
+    transform: scale(1.1);
+}
+.nomain{max-width:500px;
+		float:right;
+		border-radius:5px}
+legend{font-family: sans-serif;
+	font-size: 30px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 800;
+	line-height: 26.4px;
+	}
+h2{text-align: center;
+	font-size:40px;
+	font-family: sans-serif;}
+p   {text-align:center;
+	font-family: sans-serif;
+	font-size: 20px;}
+
+	
+	
